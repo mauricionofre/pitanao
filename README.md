@@ -5,6 +5,5 @@
 <h1 align="center">pitanao</h1>
 
 <p align="center">
-  Um repositório com vibe de personagem, inspirado no estilo de apresentação do
-  <a href="https://github.com/juliusbrussee/caveman">caveman</a>.
+  Repositório do Pitanao.
 </p>
